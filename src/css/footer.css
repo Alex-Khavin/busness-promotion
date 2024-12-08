@@ -1,0 +1,13 @@
+.footer-list {
+    display: flex;
+    gap: 30px;
+}
+
+.footer-link {
+    color: rgb(20, 53, 53);
+    font-weight: 500;
+}
+.footer-link:hover,
+.footer-link:focus{
+    color: brown;
+}
